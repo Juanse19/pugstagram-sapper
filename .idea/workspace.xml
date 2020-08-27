@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3184a783-6e63-40f0-b569-a7e0f680d5c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,5 +73,13 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="375" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.709/-1024.23.1024.745@0.23.1280.709" timestamp="1598508560766" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1598556591358">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800/-1024.0.1024.768@0.0.1280.800" timestamp="1598556591358" />
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598556705900">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800/-1024.0.1024.768@0.0.1280.800" timestamp="1598556705900" />
   </component>
 </project>
